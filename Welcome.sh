@@ -2,3 +2,5 @@
 Welcome to GIT tutorial
 
 Changes added by developer2
+
+Changes done by Hari
